@@ -11,7 +11,7 @@ est donnée mot pour mot dans l'énoncé du TP.
 
 ## Ouvrir le site
 
-**Lien vers le site** : https://khadija-romdhani.github.io/Guide-Survie/
+**Lien vers le site** : [https://khadija-romdhani.github.io/Guide-Survie/](https://khadija-romdhani.github.io/guide-survie-defi/)
  
 Double-cliquez sur `index.html`. Il s'ouvre dans votre navigateur. Il n'y a rien à installer, rien à compiler, aucun serveur à lancer.
 
